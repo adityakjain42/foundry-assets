@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "type": "Video",
+      "title": "Telles: Card Spotlight",
+      "description": "Check out this reveal video for Ace Navigator Telles, coming to Foundry in patch 0.8.0. Any poker fans out there?",
+      "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/I_GAMBLER_1.png",
+      "action_url": "https://www.youtube.com/watch?v=WNFSgeotZkg"
+    },
+    {
+      "type": "New Card",
+      "title": "New Hero: Thale, University Provost",
+      "description": "An Influential Scholar who synergizes with 0 Influence Heroes. Provost Thale philosophizes that genius is not a random spark, but a reproducible formula.",
+      "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/S_ZERO_2.png",
+      "action_url": "https://sites.google.com/view/playfoundry/card_reveal"
+    },
+    {
+      "type": "Video",
+      "title": "New Show Match!",
+      "description": "Provost Thale and Brother Corbin go head-to-head in this tournament style show match, highlighting the Intuits and Scholar Factions.",
+      "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/0.7.8_Video_Promo.jpg",
+      "action_url": "https://www.youtube.com/watch?v=NdWeXDmOraE"
+    },
+    {
+      "type": "DevBlog",
+      "title": "DevBlog: 10,000 Reworks",
+      "description": "Explaining the thought process behind the core set design. An open call for card designers. And a hint about what's next!",
+      "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/MULE.png",
+      "action_url": "https://sites.google.com/view/playfoundry/dev-blog"
+    },
+    {
+      "type": "Video",
+      "title": "The (Last) Empress Mini-Cinematic",
+      "description": "Learn the lore behind The (Last) Empress, a Visionary from the Foundry Core Set",
+      "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/EMPRESS_FA.png",
+      "action_url": "https://www.youtube.com/shorts/lStJBZObLWU"
+    },
+    {
+      "type": "New Card",
+      "title": "New Hero: Brother Corbin",
+      "description": "An Intuit who utilizes Charges, Brother Corbin maintains the Imperial nuclear reactors that primitive locals now worship as divine.",
+      "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/I_BROTHER_2.png",
+      "action_url": "https://sites.google.com/view/playfoundry/card_reveal_2"
+    }
+  ]
+}
