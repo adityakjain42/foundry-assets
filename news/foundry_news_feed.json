@@ -23,10 +23,10 @@
     },
     {
       "type": "DevBlog",
-      "title": "DevBlog: 10,000 Reworks",
-      "description": "Explaining the thought process behind the core set design. An open call for card designers. And a hint about what's next!",
+      "title": "DevBlog: Foundry 2.0",
+      "description": "Explaining the major swap of Relics to Schematics in 0.8.0. And a hint about what's next!",
       "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/MULE.png",
-      "action_url": "https://sites.google.com/view/playfoundry/dev-blog"
+      "action_url": "https://foundry-web-gamma.vercel.app/dev-blog"
     },
     {
       "type": "Video",
@@ -37,7 +37,7 @@
     },
     {
       "type": "New Card",
-      "title": "New Hero: Brother Corbin",
+      "title": "New Heroes: Brother Corbin",
       "description": "An Intuit who utilizes Charges, Brother Corbin maintains the Imperial nuclear reactors that primitive locals now worship as divine.",
       "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/I_BROTHER_2.png",
       "action_url": "https://sites.google.com/view/playfoundry/card_reveal_2"
