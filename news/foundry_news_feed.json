@@ -9,10 +9,10 @@
     },
     {
       "type": "New Card",
-      "title": "New Hero: Thale, University Provost",
-      "description": "An Influential Scholar who synergizes with 0 Influence Heroes. Provost Thale philosophizes that genius is not a random spark, but a reproducible formula.",
-      "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/S_ZERO_2.png",
-      "action_url": "https://sites.google.com/view/playfoundry/card_reveal"
+      "title": "New Hero: Darling",
+      "description": "Darling slips through the battlefield wearing stolen identities, turning every Hero into a new mask. On Reveal, she can become any Hero on the board while keeping her Influence.",
+      "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/C_SCRAMBLER_2.png",
+      "action_url": "https://foundry-web-gamma.vercel.app/card_reveal"
     },
     {
       "type": "Video",
@@ -25,7 +25,7 @@
       "type": "DevBlog",
       "title": "DevBlog: Foundry 2.0",
       "description": "Explaining the major swap of Relics to Schematics in 0.8.0. And a hint about what's next!",
-      "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/MULE.png",
+      "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/DEV_BLOG_5.png",
       "action_url": "https://foundry-web-gamma.vercel.app/dev-blog"
     },
     {
@@ -37,10 +37,10 @@
     },
     {
       "type": "New Card",
-      "title": "New Heroes: Brother Corbin",
-      "description": "An Intuit who utilizes Charges, Brother Corbin maintains the Imperial nuclear reactors that primitive locals now worship as divine.",
-      "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/I_BROTHER_2.png",
-      "action_url": "https://sites.google.com/view/playfoundry/card_reveal_2"
+      "title": "New Hero: Timeless Chronicler",
+      "description": "The Timeless Chronicler refuses to let history end. With every Pulse she gathers Knowledge, and her Reveal calls the Final Orrery into the Ruins—offering the power to extend the game into Round 4.",
+      "image_url": "https://raw.githubusercontent.com/adityakjain42/foundry-assets/main/news/images/S_CHRONICLER_2.png",
+      "action_url": "https://foundry-web-gamma.vercel.app/card_reveal_2"
     }
   ]
 }
