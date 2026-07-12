@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "comment": "Foundry shop daily deals. 'overrides' pins exact dates (YYYY-MM-DD, three offers max); otherwise the client cycles 'rotation' pools by calendar day. Entries must name a real cosmetic: category one of FRAMES / CARDBACKS / BOARDS / MUSIC / PETS / STRATEGISTS, id the display name (STRATEGISTS use CODEPATH::ArtID). Optional per-entry 'price' (prestige) and 'discount_percent' override the defaults. Owned items are skipped client-side.",
+  "overrides": {
+    "2026-07-11": [
+      {"category": "PETS", "id": "Foundry Bot", "discount_percent": 35},
+      {"category": "STRATEGISTS", "id": "EMPRESS::Aurora", "discount_percent": 30},
+      {"category": "BOARDS", "id": "Catlactic Empire"}
+    ],
+    "2026-07-12": [
+      {"category": "PETS", "id": "Catlactic Kitten", "discount_percent": 35},
+      {"category": "STRATEGISTS", "id": "MAYOR::Metal"},
+      {"category": "MUSIC", "id": "Temporal Jazz"}
+    ]
+  },
+  "rotation": [
+    [
+      {"category": "PETS", "id": "Clockwork Quill"},
+      {"category": "FRAMES", "id": "Golden Path"},
+      {"category": "MUSIC", "id": "Orchestral"}
+    ],
+    [
+      {"category": "STRATEGISTS", "id": "EMPRESS::Radiant"},
+      {"category": "CARDBACKS", "id": "Past-el"},
+      {"category": "MUSIC", "id": "Bedroom Bubblegum"}
+    ],
+    [
+      {"category": "PETS", "id": "Foundry Bot"},
+      {"category": "FRAMES", "id": "Cosmic Fluff"},
+      {"category": "CARDBACKS", "id": "Crownfall"}
+    ],
+    [
+      {"category": "STRATEGISTS", "id": "MAYOR::Metal"},
+      {"category": "BOARDS", "id": "Catlactic Empire"},
+      {"category": "FRAMES", "id": "Charged Up!"}
+    ],
+    [
+      {"category": "PETS", "id": "Catlactic Kitten"},
+      {"category": "CARDBACKS", "id": "Electric Dreams"},
+      {"category": "FRAMES", "id": "High Roller"}
+    ],
+    [
+      {"category": "STRATEGISTS", "id": "EMPRESS::Gilded"},
+      {"category": "FRAMES", "id": "Flower Power"},
+      {"category": "MUSIC", "id": "Temporal Jazz"}
+    ],
+    [
+      {"category": "STRATEGISTS", "id": "EMPRESS::Aurora"},
+      {"category": "CARDBACKS", "id": "Purple Mandate"},
+      {"category": "FRAMES", "id": "See You Soon"}
+    ],
+    [
+      {"category": "PETS", "id": "Clockwork Quill"},
+      {"category": "CARDBACKS", "id": "Spice-y Ruins"},
+      {"category": "FRAMES", "id": "Cult Cthul-who?"}
+    ]
+  ]
+}
