@@ -1,6 +1,6 @@
 {
   "version": "0.8.0",
-  "minimum_app_version": "0.8.0",
+  "minimum_app_version": "0.8.1",
   "app_download_url": "https://foundryccg.itch.io/foundry",
   "release_tag": "packs-0.8.0",
   "packs": [
