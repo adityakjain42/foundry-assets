@@ -1,0 +1,230 @@
+{
+  "version": "0.8.0",
+  "minimum_app_version": "0.8.0",
+  "app_download_url": "https://foundryccg.itch.io/foundry",
+  "release_tag": "packs-0.8.0",
+  "packs": [
+    {
+      "name": "gameplay_core",
+      "label": "Gameplay balance update",
+      "kind": "gameplay",
+      "platform": [],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-gameplay-0.8.0.zip",
+      "sha256": "4b6abc43ddc72be138d5907707947d1329b05e1886f6bf029f8b0a61bc475424",
+      "size": 992808,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "cultist_animations",
+      "label": "Cultist reveal animations",
+      "kind": "animation",
+      "platform": [
+        "desktop"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-cultist-desktop-0.8.0.zip",
+      "sha256": "2fd49cc259fb7e140537a24a6cc82b78986b11c49c6760cbbf7bca81ac047e68",
+      "size": 176934503,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "intuit_animations",
+      "label": "Intuit reveal animations",
+      "kind": "animation",
+      "platform": [
+        "desktop"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-intuit-desktop-0.8.0.zip",
+      "sha256": "d9ea7296f14b76495f50a7923a2c157654e6988448527ae119bc7fa4aed7cc7c",
+      "size": 169978722,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "loyalist_animations",
+      "label": "Loyalist reveal animations",
+      "kind": "animation",
+      "platform": [
+        "desktop"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-loyalist-desktop-0.8.0.zip",
+      "sha256": "cd543a4419b1097656514064fa8b7a8a1df4574d8c0df66e81ffea0f9a00fc6d",
+      "size": 248953911,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "scholar_animations",
+      "label": "Scholar reveal animations",
+      "kind": "animation",
+      "platform": [
+        "desktop"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-scholar-desktop-0.8.0.zip",
+      "sha256": "99058f0414aaf73bf471d310ba2b1892384bdcb4d1e48105b5565bdbe2ce9212",
+      "size": 162345576,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "trader_animations",
+      "label": "Trader reveal animations",
+      "kind": "animation",
+      "platform": [
+        "desktop"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-trader-desktop-0.8.0.zip",
+      "sha256": "fea099ee5d6c7d69542edf8b1b0839dde27b23719808f5f8bd48bf9fe5f40701",
+      "size": 198551507,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "cultist_animations",
+      "label": "Cultist reveal animations",
+      "kind": "animation",
+      "platform": [
+        "android"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-cultist-android-0.8.0.zip",
+      "sha256": "be859ba61f546c1916025e070d2c6a76b43b0d409a003b04c8a2c33eed544b52",
+      "size": 185119578,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "intuit_animations",
+      "label": "Intuit reveal animations",
+      "kind": "animation",
+      "platform": [
+        "android"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-intuit-android-0.8.0.zip",
+      "sha256": "c748e84e39b988b76a70f1c7dc19245db1d2ebc03a1f16c92aec4686701b812f",
+      "size": 176565873,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "loyalist_animations",
+      "label": "Loyalist reveal animations",
+      "kind": "animation",
+      "platform": [
+        "android"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-loyalist-android-0.8.0.zip",
+      "sha256": "a5ffc190fe28de45536095f330c239c0b0cb841188984789650ef8047709698a",
+      "size": 258697714,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "scholar_animations",
+      "label": "Scholar reveal animations",
+      "kind": "animation",
+      "platform": [
+        "android"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-scholar-android-0.8.0.zip",
+      "sha256": "141273ad16014ad8ecff7d0f5d32d082715758a5aef3b40210c7cb9b8bf83ef6",
+      "size": 168982521,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "trader_animations",
+      "label": "Trader reveal animations",
+      "kind": "animation",
+      "platform": [
+        "android"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-trader-android-0.8.0.zip",
+      "sha256": "20fd9073b99b6397f55fc3416bc26a29df11d159fe6906cc3f809e70e5024ae4",
+      "size": 211036343,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "cultist_animations",
+      "label": "Cultist reveal animations",
+      "kind": "animation",
+      "platform": [
+        "ios"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-cultist-ios-0.8.0.zip",
+      "sha256": "b5339aa12b0bc8cf67e78fccd0413c238b502657b694d40274586d739daff3c7",
+      "size": 185119605,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "intuit_animations",
+      "label": "Intuit reveal animations",
+      "kind": "animation",
+      "platform": [
+        "ios"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-intuit-ios-0.8.0.zip",
+      "sha256": "610e39bd161ebb1257d7afd32475cf113123571f6bde26fffc28ab666bad3e65",
+      "size": 176565900,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "loyalist_animations",
+      "label": "Loyalist reveal animations",
+      "kind": "animation",
+      "platform": [
+        "ios"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-loyalist-ios-0.8.0.zip",
+      "sha256": "d163cbe38c781a4816b957f4e37ba4f8f9593c141b85910cc66220a2080f9cdb",
+      "size": 258697741,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "scholar_animations",
+      "label": "Scholar reveal animations",
+      "kind": "animation",
+      "platform": [
+        "ios"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-scholar-ios-0.8.0.zip",
+      "sha256": "c4b2c68137758b603de3317b4edb1e31a019d661287c2ee4573d637a85378af5",
+      "size": 168982548,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    },
+    {
+      "name": "trader_animations",
+      "label": "Trader reveal animations",
+      "kind": "animation",
+      "platform": [
+        "ios"
+      ],
+      "url": "https://github.com/adityakjain42/foundry-assets/releases/download/packs-0.8.0/foundry-animations-trader-ios-0.8.0.zip",
+      "sha256": "8c7bbcc374f846995fc1d4e9b0a85b8db8c25ec839c1e8fbc81224510eed3fe8",
+      "size": 211036370,
+      "mount": true,
+      "auto_download": true,
+      "minimum_app_version": "0.8.0"
+    }
+  ]
+}
